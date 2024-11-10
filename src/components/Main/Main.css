@@ -81,7 +81,8 @@
     border-radius: 50px;
 }
 .search-box img{
-    width: 24px;
+    width: 24px; 
+    cursor: pointer;
 }
 .search-box input{
     flex: 1;
